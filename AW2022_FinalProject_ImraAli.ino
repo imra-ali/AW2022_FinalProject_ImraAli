@@ -9,12 +9,12 @@
 
 
 #include <Adafruit_CircuitPlayground.h>
-int Blue1 = 2; // input pin for the 1st blue led
-int Green1 = 0; // input pin for the 1st green led
-int Yellow = 12; // input pin for the yellow led
-int Orange = 6; // input pin for the orange led
-int Red = 9; // input pin for the red led
-int Blue2 = 10; // input pin for the 2nd blue led
+int Blue1 = 12; // input pin for the 1st blue led
+int Green1 = 6; // input pin for the 1st green led
+int Yellow = 9; // input pin for the yellow led
+int Orange = 10; // input pin for the orange led
+int Red = 2; // input pin for the red led
+int Blue2 = 0; // input pin for the 2nd blue led
 int Green2 = 1; // input pin for the 2nd green led
 
 int analogPin = 4;    // input pin for the pressure sensor
